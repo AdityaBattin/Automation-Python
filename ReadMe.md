@@ -1,1 +1,1 @@
-# This Repo is Dedivated to Automation with Python Course
+# This Repo is Dedicated to Automation with Python Course
